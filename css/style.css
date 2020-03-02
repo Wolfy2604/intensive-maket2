@@ -27,6 +27,8 @@ body {
     background-image: url(../img/bg_photo_11949.jpg);
 }
 
+/*HEADER_PANEL*/
+
 .header_panel {
     display: flex;
     justify-content: center;
